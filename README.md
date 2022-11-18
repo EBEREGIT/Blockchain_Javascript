@@ -1,6 +1,8 @@
 # How Blockchain works (JavaScript)
 This is introductory tutorial to blockchain. Javascript was used to show how Blockchain works under the hood.
 
+Article: https://www.freecodecamp.org/news/introduction-to-blockchain/
+
 ## Dependencies
 - [Sha256](https://www.npmjs.com/package/sha256)
 
